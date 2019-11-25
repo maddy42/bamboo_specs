@@ -1,0 +1,3 @@
+/srv/typo3/master/Build/bamboo/src/test/java/core/PreMergeSpecTest.java
+/srv/typo3/master/Build/bamboo/src/test/java/core/SecuritySpecTest.java
+/srv/typo3/master/Build/bamboo/src/test/java/core/NightlySpecTest.java
